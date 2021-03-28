@@ -29,11 +29,11 @@ I enjoy exploring new technologies and always **Product Oriented**, i.e. I'd lea
 
 💻 I can `code` in:
 
-`Over 10000 lines`: Java and JavaScript
+`Over 10000 lines`: Java, C and JavaScript
 
-`Over 1000 lines`: SQL, HTML, CSS, Python, C
+`Over 1000 lines`: SQL, HTML, CSS, Python and PHP
 
-`Familiar`: Assembly, Arduino, MATLAB, Dart
+`Familiar`: Assembly, Arduino, MATLAB and Dart
 
 I also can work with many `tools` and `frameworks` as: 
 - Node.JS (Back End `JavaScript`)
