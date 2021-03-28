@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->                                                                                  
 
-🎓 I’m currently enrolled in Alexandria University, **Computer and Communication Engineering** department with 3 terms left to graduate.
+🎓 I’m currently enrolled in Alexandria University, **Computer and Communication Engineering** department expected to graduate **2022**.
 
 🌱 I'm a **Software Engineer** eager to learn more and more. 
 I enjoy exploring new technologies and always **Product Oriented**, i.e. I'd learn/do anything to benefit the product I'm working on.
