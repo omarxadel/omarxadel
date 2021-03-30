@@ -31,7 +31,7 @@ I enjoy exploring new technologies and always **Product Oriented**, i.e. I'd lea
 
 `Over 10000 lines`: Java, C and JavaScript
 
-`Over 1000 lines`: SQL, HTML, CSS, Python and PHP
+`Over 1000 lines`: SQL, HTML, CSS, Python, TypeScript and PHP
 
 `Familiar`: Assembly, Arduino, MATLAB and Dart
 
@@ -39,11 +39,13 @@ I also can work with many `tools` and `frameworks` as:
 - NodeJS (Back End `JavaScript`)
 - ReactJS & VueJS (Front End `JavaScript`) 
 - Laravel (Back End `PHP`)
+- GraphQL (Back End `TypeScript`)
 - MongoDB & MariaDB & MySQL & Firebase (`Databases`)
 - Git (`Version Control`)
 - Milanote (`Planning`)
 - Android Native (`Java`)
 - Flutter (`Cross Platform`)
+- Data Analysis/Visualization (`Python`)
 
 📫 How to reach me:
 Omar Adel - [@omarxadel](https://twitter.com/omarxadel) - omarxadel21@gmail.com
