@@ -39,7 +39,7 @@ I also can work with many `tools` and `frameworks` as:
 - NodeJS (Back End `JavaScript`)
 - ReactJS & VueJS (Front End `JavaScript`) 
 - Laravel (Back End `PHP`)
-- GraphQL (Back End `TypeScript`)
+- GraphQL
 - MongoDB & MariaDB & MySQL & Firebase (`Databases`)
 - Git (`Version Control`)
 - Milanote (`Planning`)
