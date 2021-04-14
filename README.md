@@ -42,7 +42,7 @@ I also can work with many `tools` and `frameworks` as:
 - GraphQL
 - MongoDB & MariaDB & MySQL & Firebase (`Databases`)
 - Git (`Version Control`)
-- Milanote (`Planning`)
+- Notion (`Planning`)
 - Android Native (`Java`)
 - Flutter (`Cross Platform`)
 - Data Analysis/Visualization (`Python`)
