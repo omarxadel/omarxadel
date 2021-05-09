@@ -36,8 +36,9 @@ I enjoy exploring new technologies and always **Product Oriented**, i.e. I'd lea
 `Familiar`: Assembly, Arduino, MATLAB and Dart
 
 I also can work with many `tools` and `frameworks` as: 
-- NodeJS & ExpressJS (Back End `JavaScript`)
+- NodeJS (ExpressJS) (Back End `JavaScript`)
 - ReactJS & VueJS (Front End `JavaScript`) 
+- ElectronJS (Desktop apps `JavaScript`)
 - Laravel (Back End `PHP`)
 - GraphQL
 - MongoDB & MariaDB & MySQL & SQLite & Firebase (`Databases`)
