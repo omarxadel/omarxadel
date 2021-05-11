@@ -47,6 +47,7 @@ I also can work with many `tools` and `frameworks` as:
 - Android Native (`Java`)
 - Flutter (`Cross Platform`)
 - Data Analysis/Visualization (`Python`)
+- Figma & Adobe XD (`UI/UX`)
 
 📫 How to reach me:
 Omar Adel - [@omarxadel](https://twitter.com/omarxadel) - omarxadel21@gmail.com
