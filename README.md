@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 I enjoy exploring new technologies and always **Product Oriented**, i.e. I'd learn/do anything to benefit the product I'm working on.
 
 
-👯 I’m looking for **internships** to expand my knowledge and networks.
+<!-- 👯 I’m looking for **internships** to expand my knowledge and networks. -->
 
 
 💻 I can `code` in:
