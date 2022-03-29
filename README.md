@@ -36,14 +36,14 @@ I enjoy exploring new technologies and always **Product Oriented**, i.e. I'd lea
 `Familiar`: Assembly, Arduino, MATLAB and Dart
 
 I also can work with many `tools` and `frameworks` as: 
-- NodeJS (Back End `JavaScript`)
-- ReactJS & VueJS (Front End `JavaScript`) 
-- ElectronJS (Desktop apps `JavaScript`)
+- Express, Apollo & Nest JS (Back End `JavaScript & TypeScript`)
+- ReactJS & Angular (Front End `JavaScript & TypeScript`) 
+- ElectronJS (Desktop apps `JavaScript & TypeScript`)
 - Laravel (Back End `PHP`)
 - GraphQL
-- MongoDB & MariaDB & MySQL & SQLite & Firebase (`Databases`)
+- MongoDB, MariaDB, MySQL, PostgreSQL, SQLite & Firebase (`Databases`)
 - Git (`Version Control`)
-- Notion (`Planning`)
+- Notion, Asana, Jira & Rock (`Planning`)
 - Android Native (`Java`)
 - Flutter (`Cross Platform`)
 - Data Analysis/Visualization (`Python`)
