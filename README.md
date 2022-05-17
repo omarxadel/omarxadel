@@ -20,34 +20,48 @@ Here are some ideas to get you started:
 
 🎓 I’m currently enrolled in Alexandria University, **Computer and Communication Engineering** department expected to graduate **2022**.
 
-🌱 I'm a **Software Engineer** eager to learn more and more. 
-I enjoy exploring new technologies and always **Product Oriented**, i.e. I'd learn/do anything to benefit the product I'm working on.
+🌱 I'm a [**Multipotentialite**](https://en.wikipedia.org/wiki/Multipotentiality) driven by never-ending curiosity to learn more.
+  
+👨‍💻 I enjoy exploring new technologies and always **Product Oriented**, i.e. I'd learn/do anything to benefit the product I'm working on.
 
 
 <!-- 👯 I’m looking for **internships** to expand my knowledge and networks. -->
 
+🔊 Right now I'm interested in **Machine Learning and Deep Learning** research, specifically in **Speech and Language Processing**.
 
 💻 I can `code` in:
 
-`Over 10000 lines`: Java, C and JavaScript
+`Over 10000 lines`: Java, C, JavaScript and TypeScript
 
-`Over 1000 lines`: SQL, HTML, CSS, Python, TypeScript and PHP
+`Over 1000 lines`: SQL, HTML, CSS, Python and PHP
 
 `Familiar`: Assembly, Arduino, MATLAB and Dart
 
-I also can work with many `tools` and `frameworks` as: 
-- Express, Apollo & Nest JS (Back End `JavaScript & TypeScript`)
-- ReactJS & Angular (Front End `JavaScript & TypeScript`) 
-- ElectronJS (Desktop apps `JavaScript & TypeScript`)
-- Laravel (Back End `PHP`)
-- GraphQL
-- MongoDB, MariaDB, MySQL, PostgreSQL, SQLite & Firebase (`Databases`)
-- Git (`Version Control`)
-- Notion, Asana, Jira & Rock (`Planning`)
-- Android Native (`Java`)
-- Flutter (`Cross Platform`)
-- Data Analysis/Visualization (`Python`)
-- Figma & Adobe XD (`UI/UX`)
+I can also work with many `tools` and `frameworks` as: 
+- Web Development
+  - Express, Apollo & Nest JS (Back End `JavaScript & TypeScript`)
+  - Laravel (Back End `PHP`)
+  - ReactJS & Angular (Front End `JavaScript & TypeScript`) 
+  - ElectronJS (Desktop apps `JavaScript & TypeScript`)
+- Mobile App Development
+  - Android Native (`Java`)
+  - Flutter
+- Database Management Systems
+  - MongoDB
+  - Firebase
+  - MariaDB
+  - MySQL
+  - PostgreSQL
+  - SQLite 
+- Project Management and Documentation
+  - Notion
+  - Asana
+  - Jira 
+  - Rock
+  - Confluence
+- Product Design
+  - Figma 
+  - Adobe XD
 
 📫 How to reach me:
 Omar Adel - [@omarxadel](https://twitter.com/omarxadel) - omarxadel21@gmail.com
