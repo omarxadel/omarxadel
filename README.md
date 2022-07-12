@@ -64,6 +64,6 @@ I can also work with many `tools` and `frameworks` as:
   - Adobe XD
 
 📫 How to reach me:
-Omar Adel - [@omarxadel](https://twitter.com/omarxadel) - omarxadel21@gmail.com
+Omar Adel - [@omarxadel](https://twitter.com/omarxadel) - omarxadel21@gmail.com - [huggingface/omarxadel](https://huggingface.co/omarxadel)
 
 </p>
