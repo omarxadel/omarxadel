@@ -18,24 +18,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->                                                                                  
 
-🎓 I’m currently enrolled in Alexandria University, **Computer and Communication Engineering** department expected to graduate **2022**.
+🎓 I’ve graduated from Alexandria University, **Computer and Communication Engineering** department in **2022**.
 
 🌱 I'm a [**Multipotentialite**](https://en.wikipedia.org/wiki/Multipotentiality) driven by never-ending curiosity to learn more.
   
-👨‍💻 I enjoy exploring new technologies and always **Product Oriented**, i.e. I'd learn/do anything to benefit the product I'm working on.
+👨‍💻 I am a Product Oriented Quality Freak. I love building stuff. Always making MVPs and helping startups validate their ideas 💡.
 
 
 <!-- 👯 I’m looking for **internships** to expand my knowledge and networks. -->
 
-🔊 Right now I'm interested in **Machine Learning and Deep Learning** research, specifically in **Speech and Language Processing**.
+🔊 Right now I'm working on a cool AI project, connecting my [omarxadel/hubert-large-arabic-egyptian](https://huggingface.co/omarxadel/hubert-large-arabic-egyptian) model with a couple more models creating a cool pipeline. More details on that later.
+  
+🅱 I'm also building a couple of products for my little startup  [@bolder-io](https://www.github.com/bolder-io)
 
-💻 I can `code` in:
-
-`Over 10000 lines`: Java, C, JavaScript and TypeScript
-
-`Over 1000 lines`: SQL, HTML, CSS, Python and PHP
-
-`Familiar`: Assembly, Arduino, MATLAB and Dart
+💻 I LOVE using:
+- JavaScript and TypeScript
+- PHP
+- Python
 
 I can also work with many `tools` and `frameworks` as: 
 - Web Development
