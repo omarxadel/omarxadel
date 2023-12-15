@@ -95,6 +95,6 @@ I can also work with many `tools` and `frameworks` as:
 -->
 
 📫 How to reach me:
-Omar Adel - [@omarxadel](https://twitter.com/omarxadel) - omarxadel21@gmail.com - [huggingface/omarxadel](https://huggingface.co/omarxadel)
+Omar Adel - [@omarxadel](https://twitter.com/omarxadel) - omarxadel21@gmail.com - [huggingface/omarxadel](https://huggingface.co/omarxadel) - [Visit My Blog](https://omarxadel.github.io/)
 
 </p>
