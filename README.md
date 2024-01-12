@@ -2,11 +2,23 @@
 <img src="https://i.imgur.com/iBzGy19.png" width=200 height=200/>
 
 ### Hi there, I'm Omar 👋
+I'm a **Software Engineer and Data Science Researcher.** My research mainly focused on **NLP and ASR** for the past two years. Currently, I'm focusing more on **Image Segmentation and Computer Vision research.** I've also been building **SaaS products for several clients for the past 4 years.**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omarxadel&label=Profile%20views&color=0e75b6&style=flat" alt="omarxadel" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omarxadel&label=Profile%20views&color=0e75b6&style=flat" alt="omarxadel" /> 
+  <a href="https://omarxadel.github.io">
+    <img width="120" src="https://github.com/omarxadel/omarxadel/assets/48330931/43a872fd-0cef-43cd-9f68-b3057fee24f6" alt="omarxadel" />
+  </a>
+</p>
 
+---
 
-### Languages and Tools:
+### 📫 How to reach me:
+
+Omar Adel - [@omarxadel](https://twitter.com/omarxadel) - omarxadel21@gmail.com - [huggingface/omarxadel](https://huggingface.co/omarxadel) - [Visit My Blog](https://omarxadel.github.io/)
+
+---
+
+### 👨🏻‍💻 Languages and Tools:
 
 
 <a href="https://www.javascript.com/" target="_blank"><img align="left" alt="JS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" /></a>
@@ -92,9 +104,10 @@ I can also work with many `tools` and `frameworks` as:
 - Product Design
   - Figma 
   - Adobe XD
--->
+
 
 📫 How to reach me:
 Omar Adel - [@omarxadel](https://twitter.com/omarxadel) - omarxadel21@gmail.com - [huggingface/omarxadel](https://huggingface.co/omarxadel) - [Visit My Blog](https://omarxadel.github.io/)
 
 </p>
+-->
