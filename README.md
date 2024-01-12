@@ -5,7 +5,7 @@
 I'm a **Software Engineer and Data Science Researcher.** My research mainly focused on **NLP and ASR** for the past two years. Currently, I'm focusing more on **Image Segmentation and Computer Vision research.** I've also been building **SaaS products for several clients for the past 4 years.**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarxadel&label=Profile%20views&color=0e75b6&style=flat" alt="omarxadel" /> 
-  <a href="https://omarxadel.github.io">
+  <a href="https://omarxadel.github.io" target="_blank">
     <img width="120" src="https://github.com/omarxadel/omarxadel/assets/48330931/43a872fd-0cef-43cd-9f68-b3057fee24f6" alt="omarxadel" />
   </a>
 </p>
