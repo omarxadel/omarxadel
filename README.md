@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/iBzGy19.png" width=200 height=200/>
+<img src="https://github.com/omarxadel/omarxadel/assets/48330931/c0cc3776-2a14-48c5-ac0c-cd9d58d17c4e" width=200 height=200/>
 
 ### Hi there, I'm Omar 👋
 I'm a **Software Engineer and Data Science Researcher.** My research mainly focused on **NLP and ASR** for the past two years. Currently, I'm focusing more on **Image Segmentation and Computer Vision research.** I've also been building **SaaS products for several clients for the past 4 years.**
