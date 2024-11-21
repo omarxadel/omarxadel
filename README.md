@@ -1,8 +1,4 @@
-<p align="center">
-<img src="https://github.com/omarxadel/omarxadel/assets/48330931/c0cc3776-2a14-48c5-ac0c-cd9d58d17c4e" width=200 height=200/>
-
-### Hi there, I'm Omar 👋
-I'm a **Software Engineer and Data Science Researcher.** My research mainly focused on **NLP and ASR** for the past two years. Currently, I'm focusing more on **Image Segmentation and Computer Vision research.** I've also been building **SaaS products for several clients for the past 4 years.**
+Master's student, Deep Learning Researcher and Mid-Senior Software Engineer.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarxadel&label=Profile%20views&color=0e75b6&style=flat" alt="omarxadel" /> 
   <a href="https://omarxadel.github.io" target="_blank">
@@ -12,12 +8,12 @@ I'm a **Software Engineer and Data Science Researcher.** My research mainly focu
 
 ---
 
-### 📫 How to reach me:
+### 📫 Contact information:
 
 Omar Adel - [@omarxadel](https://twitter.com/omarxadel) - omarxadel21@gmail.com - [huggingface/omarxadel](https://huggingface.co/omarxadel) - [Visit My Blog](https://omarxadel.github.io/)
 
 ---
-
+<!--
 ### 👨🏻‍💻 Languages and Tools:
 
 
@@ -43,7 +39,7 @@ Omar Adel - [@omarxadel](https://twitter.com/omarxadel) - omarxadel21@gmail.com 
 
 <br />
 <br />
-
+-->
 
 [![Omar's github stats](https://github-readme-stats.vercel.app/api?username=omarxadel&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
