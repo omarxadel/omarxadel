@@ -1,4 +1,4 @@
-Master's student, Deep Learning Researcher and Mid-Senior Software Engineer.
+MSc candidate and a Senior AI Engineer.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarxadel&label=Profile%20views&color=0e75b6&style=flat" alt="omarxadel" /> 
   <a href="https://omarxadel.github.io" target="_blank">
